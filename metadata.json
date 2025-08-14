@@ -1,0 +1,6 @@
+{
+  "name": "RFP Generator for CO2 Capture",
+  "description": "An application to generate a Request for Proposal (RFP) template for CO2 capture process licensors, with AI-assisted content generation.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
